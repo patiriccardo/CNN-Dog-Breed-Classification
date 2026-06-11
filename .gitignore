@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Keras / model files
+*.keras
+*.h5
+*.hdf5
+
+# Large data files
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
